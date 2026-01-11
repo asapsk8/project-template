@@ -1,0 +1,3 @@
+ridge_cv_rmse: 55.425007
+ridge: 53.777454
+random_forest: 54.815794
